@@ -1,6 +1,20 @@
-# foca_app
+# FOCA
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter.
+
+## Resumo
+
+FOCA é um aplicativo de organização pessoal, acadêmica, profissional e econômica.
+
+## Desenvolvedores
+
+Este aplicativo foi desenvolvido em conjunto pelos usuários:
+  @patriciacrestani
+  @locknn
+  @ricardoMonteiroTavares
+  @herecomesMac
+  @Alines009
+  @johanndaflon
 
 ## Getting Started
 
