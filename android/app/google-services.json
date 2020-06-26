@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "225865016436",
+    "firebase_url": "https://foca-app-8daa2.firebaseio.com",
+    "project_id": "foca-app-8daa2",
+    "storage_bucket": "foca-app-8daa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225865016436:android:45baada2854321c5",
+        "android_client_info": {
+          "package_name": "com.example.foca_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225865016436-i0dq0lqt56ps121pjrjv19qkuvu40osh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foca_app",
+            "certificate_hash": "32fff8a2b3416dd3228adb4d9391439f92c79488"
+          }
+        },
+        {
+          "client_id": "225865016436-993sbvh2vk7br9m3carpgcrgnvdsgr5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foca_app",
+            "certificate_hash": "ccae9c3e6a63a8977c31c54aa7aadb4ff1212a5b"
+          }
+        },
+        {
+          "client_id": "225865016436-49dnofhe96f09m3nhmpd3k122dtrbf5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foca_app",
+            "certificate_hash": "84d2cffac43e08d1c831c476d2f1704bf5d9299f"
+          }
+        },
+        {
+          "client_id": "225865016436-34mr942bn7rmihod0obn0a0fqj6m61m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foca_app",
+            "certificate_hash": "0cb02344704678f9a02957ec00b729e8ae00460f"
+          }
+        },
+        {
+          "client_id": "225865016436-1mfq9r5sm35g2qac3hck9s7vdmhlcgn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foca_app",
+            "certificate_hash": "1661aad47a2ccd82c9a3dbd75c9d144e30ef5c06"
+          }
+        },
+        {
+          "client_id": "225865016436-lauuoi1gmn0l3uemm9gmvv4p4eetvfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38wdla9aoS9eY33fYi-2HC21MQVgrFoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225865016436-lauuoi1gmn0l3uemm9gmvv4p4eetvfga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
